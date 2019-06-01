@@ -1,0 +1,10 @@
+Program a;
+Var i:integer;
+    j:real;
+Begin
+    j:=1.5;
+    i:=4;
+    if i<5 then
+	i:=6
+    else i:=9;
+End.

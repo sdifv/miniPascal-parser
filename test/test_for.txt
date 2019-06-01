@@ -1,0 +1,7 @@
+Program a;
+Var i:integer;
+    j:real;
+Begin
+    j:=1.5;
+    for i:=1 to 4 do j:=i+1;
+End.
