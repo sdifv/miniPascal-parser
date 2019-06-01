@@ -3,4 +3,4 @@
 # 程序文件说明：
 1.	tool文件夹：词法、语法程序生成工具flex\bison
 2.	test文件夹：可执行文件和测试用例
-3.	运行run.bat文件可完成代码重新编译，生成新的可执行文件parser.exe
+3.	parser文件夹：运行run.bat文件可完成代码重新编译，生成新的可执行文件parser.exe
